@@ -1,4 +1,3 @@
-# ListaDeTarefas
 <h1>
   Lista de Tarefas feita com JavaScript estilo basico  em css
 </h1>
