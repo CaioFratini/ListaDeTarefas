@@ -2,7 +2,7 @@
   #Lista de Tarefas
   <h1>
     projeto feito em JS com css porem o foco em JS.<br>
-    clique aqui para ver o projeto 👇👇
+    clique na imagem para ver um video do projeto 👇👇
   </h1>
 
 
