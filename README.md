@@ -6,5 +6,5 @@
 
 
 
-!(https://github.com/CaioFratini/ListaDeTarefas/assets/125409056/7f4fe13f-e99a-48e7-a16b-1c3a962c2640)
+[![Assista ao vídeo](URL_DA_IMAGEM_DE_CAPA)](https://www.youtube.com/watch?v=p_7kyxAJDEI&ab_channel=CaioFratini)
 
